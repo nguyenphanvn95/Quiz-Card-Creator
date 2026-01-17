@@ -1,0 +1,16 @@
+{
+    "package": "QuizCardCreator",
+    "name": "Quiz Card Creator",
+    "author": "Your Name",
+    "version": "1.0.0",
+    "homepage": "https://github.com/yourname/quiz-card-creator",
+    "conflicts": [],
+    "mod": 1729999999,
+    "targets": [
+        {
+            "anki_version": "25.02.5",
+            "min_python": 30900,
+            "max_python": 31200
+        }
+    ]
+}

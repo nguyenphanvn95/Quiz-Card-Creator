@@ -1,0 +1,7 @@
+{
+    "default_quiz_deck_name": "Quiz Notes",
+    "quiz_field_name": "Quiz",
+    "max_random_cards": 3,
+    "skip_existing_cards": true,
+    "prevent_duplicates": true
+}
